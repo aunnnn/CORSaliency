@@ -1,5 +1,6 @@
 # CORSaliency
 Corner-based Saliency Model
-- use to compute saliency map on a given image.
-
+- Use to compute saliency map on a given image.
+- An example is in the main function of CORS.py.
+- 
 Contact: aun.rueopas@gmail.com
