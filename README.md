@@ -1,3 +1,5 @@
 # CORSaliency
 Corner-based Saliency Model
-- for compute visual saliency on a given image.
+- use to compute saliency map on a given image.
+
+Contact: aun.rueopas@gmail.com
