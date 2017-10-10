@@ -4,7 +4,7 @@ Corner-based Saliency Model
 - An example is in the main function of CORS.py.
 
 ## Basic Idea
-A bottom-up visual saliency can be computed by directly detecting corners in a scene. Corners have the a lot of information as they defines shape, and human's eyes and brains are naturally attracted to them. 
+We proposed that a bottom-up visual saliency can be computed by directly detecting corners in a scene. Corners have the a lot of information as they defines shape, and human's eyes and brains are naturally attracted to them. 
 
 Imagine how would you look at a line. Would you scan all parts linearly from the start to the end? Of course not.
 What we usually do is just glancing at the starting and ending points, and we recognize the line and its length.
