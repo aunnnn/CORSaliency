@@ -11,6 +11,9 @@ What we usually do is just glancing at the starting and ending points, and we re
 
 1. start --> ______________________ <-- 2. end
 
+Not convinced how important corner information is yet? 
+Try this thought experiment. You are just waking up, and after you open your eyes, all you can see is just plain white everywhere. Nothing, no objects, thus **no corners**. You might think, "Am I currently facing a big white wall?", and you'd turn around heavily in order to search for a line, or any evidence of a wall to validate this doubt. Or, you might think, "Am I happen to be floating in the air?", and you'd search for a skyline. All of this is drived by the urge to solve a nagging question, "where are you?". To make sense of a scene, we search for clues like objects, people, faces, lines, and they all share a common building block, **corners**.
+
 While this idea might sound too simple, and yes there are flaws. However, its accuracy is competitive to other models, as shown by validating with [MIT300 dataset](http://saliency.mit.edu/results_mit300.html).
 
 
